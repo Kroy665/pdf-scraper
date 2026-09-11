@@ -1,0 +1,1315 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Daily In-Out Report MANORANJAN SAHA MEMORIAL B.ED COLLEGE
+Maynaguri, Jalpaiguri, West Bengal, Pin-735224
+Print Date : 16-May-2026
+From: 11-May-2026 To:16-May-2026 Page 1 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+Branch : MAYNAGURI
+Department : D.El.Ed. PART-I SESSION-2025-27
+DS2001 NIHARIKA ROY
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:38:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+12:19 0:0
+DS2002 SURAJIT DAS
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+21:28 0:0
+DS2003 SAMITA RAY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:35:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+16-May-2026 00:00 00:00 A
+17:33 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 2
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 2 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS2004 SUJATA RAY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:42:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+17:9 0:0
+DS2005 BARNALI ROY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+21:26 0:0
+DS2006 JAYITA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:35:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+21:2 0:0
+DS2007 JAYA BARMAN
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 3
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 3 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:42:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+17:9 0:0
+DS2008 YASMIN PERVIN
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:38:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+12:45 0:0
+DS2009 RANJAN RAY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:38:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+16-May-2026 00:00 00:00 A
+13:40 0:0
+DS2010 DEBJANI ROY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:42:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+17:9 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 4
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 4 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS2011 LOVELY ROY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+25:52 0:0
+DS2012 SAGAR RAY
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+21:2 0:0
+DS2013 JAYA ROY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+21:28 0:0
+DS2014 BANAMITA ROY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 5
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 5 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:42:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+17:9 0:0
+DS2015 JAYA ROY
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+21:28 0:0
+DS2016 APARNA MUKHERJEE
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 HD
+10:35:00 15:25:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+10:36:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+16-May-2026 00:00 00:00 A
+13:40 0:0
+DS2017 ANOWAR ALI
+DAY 10:00 To 16:00 11-May-2026 04:50 00:00 E
+10:35:00 15:25:00
+15:27:00 00:02
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:35:00 16:01:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:38:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+16-May-2026 00:00 00:00 A
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 6
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 6 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+17:59 00:02 0:0
+DS2018 ROHIT SARKAR
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:38:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+7:53 05:23 0:0
+DS2019 MD AJGAR ALI PRAMANIK
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+10:36:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:42:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+3:29 05:23 0:0
+DS2020 MAMPI ROY
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:38:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+12:45 05:23 0:0
+DS2021 AHIBUL ISLAM
+11-May-2026 00:00 00:00 A
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 7
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 7 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:19 00:00 HD
+10:42:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:29 00:00 LH
+10:32:00 14:01:00
+16:34 05:23 0:0
+DS2022 SANGEETA BARMAN
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:40:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+12:9 05:23 0:0
+DS2023 PUSPITA BISWAS
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+17:1 0:0
+DS2024 DHRUBAJYOTI ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:35:00
+DAY 10:00 To 16:00 12-May-2026 04:24 00:00 HD
+10:36:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 8
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 8 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:40:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+7:47 05:23 0:0
+DS2025 HIMANI ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:35:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+16-May-2026 00:00 00:00 A
+13:5 05:23 0:0
+DS2026 RIMA SEN
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+21:20 05:23 0:0
+DS2027 PALLABI ROY
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 9
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 9 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+16-May-2026 00:00 00:00 A
+17:57 05:23 0:0
+DS2029 RIYA ROY BASUNIA
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 00:00 00:00 E
+10:38:00
+17:57 05:23 0:0
+DS2030 MOUMITA BASU
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:35:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 00:00 00:00 E
+14:01:00
+13:5 05:23 0:0
+DS2031 PAPRI RAY
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:39:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+12:36 05:23 0:0
+DS2032 SUNOM SARKAR
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 10
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 10 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+11-May-2026 00:00 00:00 A
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:40:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+3:23 05:23 0:0
+DS2033 SANGITA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+15:27:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+12:7 05:23 0:0
+DS2034 TARIF ISLAM
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+21:20 0:0
+DS2035 UMA BARAI
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 11
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 11 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+16:58 05:23 0:0
+DS2036 RUPMAYA BARAI
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:40:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+12:6 05:23 0:0
+DS2037 KUSHAL ROY
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:39:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+12:36 05:23 0:0
+DS2038 PRIYANKA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 12
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 12 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+16:28 0:0
+DS2039 RADHARANI SARKAR
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 04:21 00:00 HD
+10:39:00 16:00:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+21:20 0:0
+DS2040 DEBJANI DEY
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+10:39:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+16:59 05:23 0:0
+DS2041 KHAYRUN BEGAM
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+10:39:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:23 00:00 LH
+10:38:00 14:01:00
+16:59 0:0
+DS2042 MAHIMA ORAON
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 13
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 13 of 13
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 11-May-2026 04:52 00:00 HD
+10:35:00 15:27:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+10:39:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+10:35:00 10:38:00
+16:01:00 05:23
+DAY 10:00 To 16:00 14-May-2026 04:22 00:00 HD
+10:40:00 16:02:00
+DAY 10:00 To 16:00 15-May-2026 04:22 00:00 HD
+10:39:00 16:01:00
+16-May-2026 00:00 00:00 A
+13:36 05:23 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 14
+================================================================================
+Daily In-Out Report MANORANJAN SAHA MEMORIAL B.ED COLLEGE
+Maynaguri, Jalpaiguri, West Bengal, Pin-735224
+Print Date : 16-May-2026
+From: 11-May-2026 To:16-May-2026 Page 1 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+Branch : MAYNAGURI
+Department : D.El.Ed. PART-II SESSION 2024-26
+DS1001 AJIT SARKAR
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:43 0:0
+DS1002 SAYAN DUTTA
+11-May-2026 00:00 00:00 A
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 00:00 00:00 E
+14:02:00
+13:15 0:0
+DS1003 RATNA SHIL SHARMA
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:43 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 15
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 2 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS1004 KUNAL BOSE
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:45 0:0
+DS1005 DHRITI ROY
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+16-May-2026 00:00 00:00 A
+17:23 0:0
+DS1006 GOBINDA RAY
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:44 0:0
+DS1007 SUSMITA SARKAR
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+16:02:00
+13-May-2026 00:00 00:00 A
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 16
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 3 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+16:17 0:0
+DS1008 CHANDRIKA MUKHOPADHYAYA
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:43 0:0
+DS1009 SOURAV DEY
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+16:19 0:0
+DS1010 TRIJITA MOHANTA
+DAY 10:00 To 16:00 11-May-2026 04:06 00:00 HD
+10:35:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 00:00 00:00 E
+16:02:00
+14-May-2026 00:00 00:00 A
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+11:54 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 17
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 4 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS1011 RUPCHANA PARVIN
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+16-May-2026 00:00 00:00 A
+17:19 0:0
+DS1012 BABLI RAY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:41 0:0
+DS1013 SANCHITA BANDYO
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:43 0:0
+DS1014 MINA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:37:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 18
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 5 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 00:00 00:00 E
+10:37:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+16:39 0:0
+DS1015 GOBINDA BARMAN
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:42 0:0
+DS1016 ANJANA ORAON
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+16-May-2026 00:00 00:00 A
+13:15 0:0
+DS1017 RANJIT SHARMA
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+14-May-2026 00:00 00:00 A
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+12:14 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 19
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 6 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS1018 KATHAKALI BARMAN
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:41 0:0
+DS1019 SUMITRA MANDAL
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+16-May-2026 00:00 00:00 A
+17:19 0:0
+DS1020 BHABESH CH BARMAN
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+15-May-2026 00:00 00:00 A
+16-May-2026 00:00 00:00 A
+17:20 0:0
+DS1021 SUPARNA ROY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 20
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 7 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:36:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+16:16 0:0
+DS1022 KRITA ROY
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 00:00 00:00 E
+10:36:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+16:38 0:0
+DS1023 ARPITA CHAKRABORTY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:26 00:00 HD
+10:36:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:25 00:00 HD
+10:36:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:43 0:0
+DS1024 LIJA ROY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:24 00:00 HD
+10:37:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:22 00:00 LH
+10:40:00 14:02:00
+20:31 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 21
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 8 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS1025 SHEULI ROY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+14-May-2026 00:00 00:00 A
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+16:12 0:0
+DS1027 SUSMITA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:37:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+16-May-2026 00:00 00:00 A
+13:3 0:0
+DS1028 NARGIS PARVIN
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+20:33 0:0
+DS1029 BABITA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:37:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 22
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 9 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+12:9 0:0
+DS1030 PIJUSH SARKAR
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:37:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+16:29 0:0
+DS1031 SUBIR ROY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+16-May-2026 00:00 00:00 A
+17:6 0:0
+DS1032 KALPANA BARMAN
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+15-May-2026 00:00 00:00 A
+16-May-2026 00:00 00:00 A
+12:46 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 23
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 10 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS1033 SAHELI DAS
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+13-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+20:33 0:0
+DS1034 DEBASHREE ROY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 00:00 00:00 E
+16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+14-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+16:13 0:0
+DS1035 MD RABBANI SARKAR
+11-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+14-May-2026 00:00 00:00 A
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+12:8 0:0
+DS1036 MENAKA ROY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:37:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+13-May-2026 00:00 00:00 A
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 24
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 11 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+16-May-2026 00:00 00:00 A
+13:2 0:0
+DS1037 SNEHA BHATTACHARJEE
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+16:29 0:0
+DS1038 JOYJYOTI RAY
+DAY 10:00 To 16:00 11-May-2026 00:00 00:00 E
+10:37:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+16:29 0:0
+DS1039 DEBOJYOTI RAY
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+DAY 10:00 To 16:00 12-May-2026 04:20 00:00 HD
+10:42:00 16:02:00
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+14-May-2026 00:00 00:00 A
+15-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 16-May-2026 03:27 00:00 LH
+10:35:00 14:02:00
+16:12 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
+
+================================================================================
+PAGE 25
+================================================================================
+From: 11-May-2026 To:16-May-2026 Page 12 of 12
+Emp ID Emp Name Attn Date In Time Out Time Total Hrs Break OS Hrs Status
+Time
+DS1040 ANAMIKA SARKAR
+DAY 10:00 To 16:00 11-May-2026 04:04 00:00 HD
+10:37:00 15:41:00
+12-May-2026 00:00 00:00 A
+DAY 10:00 To 16:00 13-May-2026 04:21 00:00 HD
+10:41:00 16:02:00
+DAY 10:00 To 16:00 14-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+DAY 10:00 To 16:00 15-May-2026 04:21 00:00 HD
+10:40:00 16:01:00
+16-May-2026 00:00 00:00 A
+17:7 0:0
+W = Weekly Off / A = Absent / H = Holiday / LH = Less Hours / HD = Half Day / PW = Present On WeekOff Day / PH = Present On
+Holiday / PHW = Present On Holiday & WeekOff Day / XX = Not Applicable / CL = Casaul Leave / HCL = Half Casaul Leave
+Yellow+Bold = Manual Punch
